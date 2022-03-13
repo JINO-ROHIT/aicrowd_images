@@ -1,1 +1,1 @@
-# aicrowd_images
+There's nothing special here, just some images :)
